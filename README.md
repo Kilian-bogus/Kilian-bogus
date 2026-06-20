@@ -26,9 +26,7 @@ My interests include:
 
 * Python Development
 * Java Applications
-* Linux & Self Hosting
 * Discord Bots
-* Raspberry Pi Projects
 * Web Development
 * Automation Tools
 
