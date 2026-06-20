@@ -76,7 +76,7 @@ My interests include:
 <div align="center">
   <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Kilian-bogus&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
 </div>
-
+<img src="metrics.plugin.achievements.svg" />
 ---
 
 ## 📫 Contact
