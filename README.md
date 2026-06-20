@@ -76,6 +76,9 @@ My interests include:
   <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Kilian-bogus&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
 </div>
 
+<img src="https://img.shields.io/badge/Pull%20Shark-achieved-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Public%20Sponsor-achieved-181717?style=for-the-badge&logo=githubsponsors&logoColor=white" />
+
 ---
 
 ## 📫 Contact
