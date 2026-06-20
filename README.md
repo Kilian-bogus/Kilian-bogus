@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1F2937&height=120&section=top" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=32&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=900&lines=Kilian+Bogus;Software+Development;Open+Source+Projects;Python+Java+Linux" alt="Typing SVG" />
 
