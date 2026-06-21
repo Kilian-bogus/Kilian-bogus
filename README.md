@@ -45,17 +45,9 @@ My interests include:
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Kilian-bogus&show_icons=true&hide_border=true&bg_color=000000&title_color=2563EB&icon_color=3B82F6&text_color=FFFFFF" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Kilian-bogus&show_icons=true&hide_border=true&bg_color=ffffff&title_color=2563EB&icon_color=3B82F6&text_color=1F2937" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kilian-bogus&show_icons=true&hide_border=true&bg_color=000000&title_color=2563EB&icon_color=3B82F6&text_color=FFFFFF" />
-</picture>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kilian-bogus&show_icons=true&hide_border=true&bg_color=00000000&title_color=2563EB&icon_color=3B82F6&text_color=374151" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kilian-bogus&layout=compact&hide_border=true&bg_color=000000&title_color=2563EB&text_color=FFFFFF" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kilian-bogus&layout=compact&hide_border=true&bg_color=ffffff&title_color=2563EB&text_color=1F2937" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kilian-bogus&layout=compact&hide_border=true&bg_color=000000&title_color=2563EB&text_color=FFFFFF" />
-</picture>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kilian-bogus&layout=compact&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=374151" />
 
 </div>
 
@@ -63,11 +55,7 @@ My interests include:
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Kilian-bogus&bg_color=000000&color=FFFFFF&line=2563EB&point=3B82F6&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Kilian-bogus&bg_color=ffffff&color=1F2937&line=2563EB&point=3B82F6&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kilian-bogus&bg_color=000000&color=FFFFFF&line=2563EB&point=3B82F6&hide_border=true" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kilian-bogus&bg_color=00000000&color=374151&line=2563EB&point=3B82F6&hide_border=true" />
 
 </div>
 
@@ -75,28 +63,24 @@ My interests include:
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kilian-bogus&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kilian-bogus&theme=github" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kilian-bogus&theme=github_dark" />
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kilian-bogus&theme=transparent" />
 
 </div>
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Kilian-bogus&hide_border=true&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Kilian-bogus&hide_border=true&theme=default" />
-  <img src="https://streak-stats.demolab.com/?user=Kilian-bogus&hide_border=true&theme=dark" />
-</picture>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Kilian-bogus&hide_border=true&theme=transparent&ring=2563EB&fire=3B82F6&currStreakLabel=2563EB" />
+
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kilian-bogus&theme=darkhub&no-frame=true&no-bg=true&column=7" />
+  <img src="metrics.plugin.achievements.svg" />
 </div>
 
 ---
@@ -105,8 +89,8 @@ My interests include:
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kilian-bogus&repo=YOUR_REPO&hide_border=true&bg_color=000000&title_color=2563EB&icon_color=3B82F6&text_color=FFFFFF)](https://github.com/Kilian-bogus/YOUR_REPO)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kilian-bogus&repo=YOUR_REPO&hide_border=true&bg_color=000000&title_color=2563EB&icon_color=3B82F6&text_color=FFFFFF)](https://github.com/Kilian-bogus/YOUR_REPO)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kilian-bogus&repo=YOUR_REPO&hide_border=true&bg_color=00000000&title_color=2563EB&icon_color=3B82F6&text_color=374151)](https://github.com/Kilian-bogus/YOUR_REPO)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kilian-bogus&repo=YOUR_REPO&hide_border=true&bg_color=00000000&title_color=2563EB&icon_color=3B82F6&text_color=374151)](https://github.com/Kilian-bogus/YOUR_REPO)
 
 </div>
 
@@ -122,10 +106,22 @@ My interests include:
 
 <img src="https://img.shields.io/badge/Open%20Source-Contributor-2563EB?style=for-the-badge&logo=github&logoColor=white" />
 
+<a href="https://ko-fi.com/YOUR_KOFI"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=ko-fi&logoColor=black" /></a>
+
 <br>
 <br>
 
 <img src="https://visitcount.itsvg.in/api?id=Kilian-bogus&label=Profile%20Views&color=2563EB&icon=5&pretty=true" />
+
+</div>
+
+---
+
+## 🎮 Discord Presence
+
+<div align="center">
+
+<img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID" />
 
 </div>
 
@@ -138,11 +134,7 @@ My interests include:
 <br>
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kilian-bogus/Kilian-bogus/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kilian-bogus/Kilian-bogus/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Kilian-bogus/Kilian-bogus/output/github-contribution-grid-snake.svg" />
-</picture>
+<img alt="Contribution Snake" src="https://raw.githubusercontent.com/Kilian-bogus/Kilian-bogus/output/github-contribution-grid-snake.svg" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1F2937&height=120&section=footer" />
 
