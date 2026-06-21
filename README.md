@@ -89,8 +89,18 @@ My interests include:
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kilian-bogus&repo=YOUR_REPO&hide_border=true&bg_color=00000000&title_color=2563EB&icon_color=3B82F6&text_color=374151)](https://github.com/Kilian-bogus/YOUR_REPO)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kilian-bogus&repo=YOUR_REPO&hide_border=true&bg_color=00000000&title_color=2563EB&icon_color=3B82F6&text_color=374151)](https://github.com/Kilian-bogus/YOUR_REPO)
+<table>
+  <tr>
+    <td align="center"><b>🆕 Neuestes</b></td>
+    <td align="center"><b>⭐ Meiste Sterne</b></td>
+    <td align="center"><b>📦 Meiste Releases</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Kilian-bogus/UIForge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kilian-bogus&repo=UIForge&hide_border=true&bg_color=00000000&title_color=2563EB&icon_color=3B82F6&text_color=374151" /></a></td>
+    <td><a href="https://github.com/Kilian-bogus/Divera247-Poller"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kilian-bogus&repo=Divera247-Poller&hide_border=true&bg_color=00000000&title_color=2563EB&icon_color=3B82F6&text_color=374151" /></a></td>
+    <td><a href="https://github.com/Kilian-bogus/UIForge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kilian-bogus&repo=UIForge&hide_border=true&bg_color=00000000&title_color=2563EB&icon_color=3B82F6&text_color=374151" /></a></td>
+  </tr>
+</table>
 
 </div>
 
@@ -106,22 +116,12 @@ My interests include:
 
 <img src="https://img.shields.io/badge/Open%20Source-Contributor-2563EB?style=for-the-badge&logo=github&logoColor=white" />
 
-<a href="https://ko-fi.com/YOUR_KOFI"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=ko-fi&logoColor=black" /></a>
+<a href="https://ko-fi.com/M2V221T2P5"><img src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
 
 <br>
 <br>
 
-<img src="https://visitcount.itsvg.in/api?id=Kilian-bogus&label=Profile%20Views&color=2563EB&icon=5&pretty=true" />
-
-</div>
-
----
-
-## 🎮 Discord Presence
-
-<div align="center">
-
-<img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID" />
+<img src="https://komarev.com/ghpvc/?username=Kilian-bogus&color=2563EB&style=for-the-badge" />
 
 </div>
 
