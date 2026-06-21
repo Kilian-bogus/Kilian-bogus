@@ -114,9 +114,6 @@ My interests include:
 <a href="https://discord.gg/7CKSpK8PGT"><img src="https://img.shields.io/badge/Discord-Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Open%20Source-Contributor-2563EB?style=for-the-badge&logo=github&logoColor=white" />
 <a href="https://ko-fi.com/M2V221T2P5"><img src="https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
-
-<br>
-
 <img src="https://komarev.com/ghpvc/?username=Kilian-bogus&color=2563EB&style=for-the-badge" />
 
 </div>
