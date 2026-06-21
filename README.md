@@ -35,7 +35,7 @@ My interests include:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode,linux,raspberrypi" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode,linux,windows,mac,macos,raspberrypi" />
 
 </div>
 
