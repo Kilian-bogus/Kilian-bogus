@@ -35,7 +35,8 @@ My interests include:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode,linux,windows,mac,macos,raspberrypi" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode,linux,apple,windows,raspberrypi" />
+<img src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white" />
 
 </div>
 
