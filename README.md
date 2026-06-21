@@ -35,10 +35,8 @@ My interests include:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode,linux,apple,windows,android,raspberrypi" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode,linux,apple,windows,raspberrypi" />
 <img src="https://cdn.simpleicons.org/zorin/0CC1F3" height="48" />
-<img src="https://cdn.simpleicons.org/ios/000000" height="48" />
-<img src="https://img.shields.io/badge/iPadOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
 
 </div>
 
