@@ -68,14 +68,6 @@ My interests include:
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Kilian-bogus&hide_border=true&theme=transparent&ring=2563EB&fire=3B82F6&currStreakLabel=2563EB" />
-
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -127,8 +119,6 @@ My interests include:
 
 <br>
 <br>
-
-<img alt="Contribution Snake" src="https://raw.githubusercontent.com/Kilian-bogus/Kilian-bogus/output/github-contribution-grid-snake.svg" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1F2937&height=120&section=footer" />
 
